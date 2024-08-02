@@ -9,5 +9,5 @@ o	Install the necessary npm packages by running:
 o	Ensure MongoDB is installed and running on your local machine or use a cloud MongoDB service.
 o	Update the MongoDB connection string in the src/config/config.ts file to match your MongoDB setup.
 4.	Run the Application
-o	Start the server with the following command:
+o	Start the server with the following command: npm run dev
 o	The server will run on the configured port (e.g., 3000 or 5000).
